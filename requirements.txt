@@ -1,0 +1,7 @@
+# Dependencies used by the educational notebooks; versions are not a validated lockfile.
+numpy
+scipy
+matplotlib
+networkx
+jupyterlab
+ipykernel
